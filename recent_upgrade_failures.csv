@@ -212,7 +212,3 @@ YARN-6654,Blocker,no (not sure),8) unknown,1) clear symptom,4) broken dependency
 HBASE-6054,Major,yes,1) whole cluster down (after all upgraded),1) clear symptom,4) broken dependency,,,N/A,,,,N/A,18/May/12 21:41,Jan 23 16:49:27 2012,yes,,,1,,1) upgrade,yes,
 CASSANDRA-5061,Normal,no,6) incorrect service result,3) gray failure,2) data-unrelated bug or logic error in upgrade operation itself,,,N/A,,,,N/A,13/Dec/12 14:02,N/A,N/A,,,1,,2) upgrade + any data on old system,yes,
 CASSANDRA-10822,Urgent,no,4) data loss,2) data loss,1.1) data format incompatibility,missing deserializer,,P(tombstone),,,,1 major,07/Dec/15 3:32,Jul 30 10:16:24 2015,yes,,,1,,4) special operation (stress testing does not test delete),yes,yes. unit test
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,20,,,,,,,,,,,,,,,,,,,
-,,,10,,,,,,,,,,,,,,,,,,,
