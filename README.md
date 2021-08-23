@@ -8,5 +8,5 @@ open https://mybinder.org/v2/gh/jwjwyoung/RecentUpgradeFailureStudy/85fd3e055c8d
 
 click reproduce.ipynb
 
-run each cell from begining  
+run each cell from begining as shown in the blue box of the picture below [run.jpg]
 
